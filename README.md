@@ -2,4 +2,3 @@
 - 👀 I’m interested in QA.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on HRtech.
-- 📫 How to reach me ...
