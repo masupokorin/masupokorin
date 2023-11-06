@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @masupokorin
-- 👀 I’m interested in QA.
+- 👀 I’m interested in DataBase.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on HRtech.
